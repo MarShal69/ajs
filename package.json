@@ -2,7 +2,7 @@
   "name": "@marshal69/ajs",
   "version": "1.0.0",
   "description": "",
-  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ddist\u001b[2~\u001a\u001a\u001a\u001a/i\u001b[2~ndex.js)",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
